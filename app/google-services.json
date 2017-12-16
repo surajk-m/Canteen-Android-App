@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1080929743354",
+    "firebase_url": "https://sinhgadcanteen.firebaseio.com",
+    "project_id": "sinhgadcanteen",
+    "storage_bucket": "sinhgadcanteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080929743354:android:ef5e48865eb87544",
+        "android_client_info": {
+          "package_name": "com.example.sinhgadcanteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080929743354-0ojtb6cq8q4ll4t8fokcirfmf4m2i6gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinhgadcanteen",
+            "certificate_hash": "722195829a7a16f4589c05db79d4580e923df7cb"
+          }
+        },
+        {
+          "client_id": "1080929743354-jo16puet3dv5nm904cvsua6ukp1o56u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-h3HaMRY3_gf48m5vkG6zg6pLpoZ_XY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080929743354-jo16puet3dv5nm904cvsua6ukp1o56u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
